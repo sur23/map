@@ -1,5 +1,8 @@
-#map 
+Android App for Current Location
+
+
 #Instructions
+
 1.Download Google Play Services from SDK Manager.
 
 2.In Build.gradle add dependency for google:
