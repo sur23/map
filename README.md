@@ -1,7 +1,18 @@
 #map 
+#Instructions
+1.Download Google Play Services from SDK Manager.
 
+2.In Build.gradle add dependency for google:
 
-This repo contains the following Detail:
+    implementation 'com.google.android.gms:play-services-maps:15.0.1'
+    implementation 'com.google.android.gms:play-services-location:15.0.1'    
+    
+3.Add premissions in androidmanifest.xml:
+
+     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+     <uses-permission android:name="android.permission.INTERNET"/>
+     
+#This repo contains the following Detail:
 
 1. Retrieve the current location from a device and show on Google Map Using Google Fused Api.
 
