@@ -23,4 +23,4 @@ Android App for Current Location
 
 3. Show Mumbai Airport and Chennai Airport Location and Address On Marker Using Geocode API to display address.
 
-4. Show Polyline Between Mumbai Airport and Chennai Airport to Current Location.
+4. Show Polyline Possible Direction Between Mumbai Airport and Chennai Airport to Current Location Using Google Direction Api.
